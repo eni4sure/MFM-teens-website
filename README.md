@@ -1,2 +1,2 @@
-# MFM-teens-website
-A website for the Mountain Of Fire Miracles &amp; Ministries Teenage Section.
+# MFM Teens Website
+The official website for the Mountain Of Fire Miracles &amp; Ministries Teenage Section.
