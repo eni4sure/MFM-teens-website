@@ -272,6 +272,8 @@
 					</div>
 				</div>
 			</main>
+			
+			<?php require 'constant/footer.php'; ?>
 
 		</div>
 
